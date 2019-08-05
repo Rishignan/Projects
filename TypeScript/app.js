@@ -97,21 +97,3 @@ function init() {
 
 
 
-
-
-
-
-
-
-
-
-
-
-//ES6 class
-
-class typeWriter {
-	
-	constructor
-	
-	
-}
