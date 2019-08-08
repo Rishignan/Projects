@@ -22,7 +22,12 @@ This is a list of my Projects. please feel free to take a look at it.
    3) Used jQuery for smooth scroll down.
 
 ## Travel Safe Alexa (Hackhathon)(Android Studio, Alexa, Python): 
-I used new bootstrap techniques to develop similar web design to Netflix and myTunes.
+ ### what we learnt 
+ 1)Alexa skill development Google maps API for location related queries Benefits of having a smart assistant in cars.
+ 2)What's next for TravelSafe We want to consider the weather data like visibility, precipitation, and temperature to see how   it will affect the safety of the road.
+ 3)In case of an accident, we would like our service to notify emergency services (assuming cars with Alexa give it access to   car information - ex if airbags are deployed)
+
+ 4) full-featured android and iOS application to allow people without Alexa enabled cars to access our service.
 
 ## Typescript (HTML,CSS,Javascript):
   1) It is a app with cool animation. Writes your name and what are you and then it changes the text on its own.
