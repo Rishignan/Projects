@@ -1,4 +1,1 @@
-node_modules/*
-.idea/
-
-WebProjects/Activity-App/node_modules/balanced-match/README.md
+Activity-App/node_modules/balanced-match/README.md
